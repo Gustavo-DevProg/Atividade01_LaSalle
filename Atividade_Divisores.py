@@ -1,4 +1,3 @@
-#ATIVIDADE_AVALIATIVA
 #Atividade baseada no algoritmo de chave pública RSA;
 #Ler números positivos e inteiros, encerrando a leitura ao digitar "-1";
 #Ignorar números negativos (exceto -1) e repetidos;
